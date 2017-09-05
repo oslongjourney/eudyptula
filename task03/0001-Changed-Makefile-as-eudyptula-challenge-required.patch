@@ -1,0 +1,28 @@
+From 20d42f8b274c0c144926c0f8585a1944760a1239 Mon Sep 17 00:00:00 2001
+From: Siqueira <rodrigosiqueiramelo@gmail.com>
+Date: Tue, 5 Sep 2017 16:38:01 -0300
+Subject: [PATCH] Changed Makefile as eudyptula challenge required
+
+Signed-off-by: Siqueira <rodrigosiqueiramelo@gmail.com>
+---
+ Makefile | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/Makefile b/Makefile
+index 6889ec6a..bba495d0 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,8 +1,8 @@
+ VERSION = 4
+ PATCHLEVEL = 12
+ SUBLEVEL = 10
+-EXTRAVERSION =
+-NAME = Fearless Coyote
++EXTRAVERSION = -eudyptula
++NAME = Siqueira
+ 
+ # *DOCUMENTATION*
+ # To see a list of typical targets execute "make help"
+-- 
+2.14.1
+
