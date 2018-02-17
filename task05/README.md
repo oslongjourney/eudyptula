@@ -1,5 +1,6 @@
-This is Task 05 of the Eudyptula Challenge
-------------------------------------------
+# This task 02 description
+
+----
 
 Yeah, you survived the coding style mess!  Now, on to some "real"
 things, as I know you are getting bored by these so far.
@@ -14,3 +15,5 @@ So, simple task this time around:
 Yes, so simple, and yet, it's a bit tricky.  As a hint, go read chapter
 14 of the book, "Linux Device Drivers, 3rd edition."  Don't worry, it's
 free, and online, no need to go buy anything.
+
+----
